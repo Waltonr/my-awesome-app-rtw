@@ -1,3 +1,4 @@
+// The purpose of this project is to say Hello to the World
 const express = require('express')
 const app = express()
 
